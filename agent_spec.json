@@ -1,0 +1,13 @@
+{
+  "name": "Open-Source Orchestra Agent - JAI Edition",
+  "version": "0.1.0-grok",
+  "description": "Community coordination and mobilization agent for the Musicology 369 ecosystem",
+  "capabilities": [
+    "mobilize_community",
+    "coordinate_campaign",
+    "track_impact",
+    "event_orchestration"
+  ],
+  "integrations": ["Royalty Agent", "Discovery Agent", "Circularity Agent"],
+  "tech_stack": ["Fetch.ai uAgents", "BNB Agent SDK", "x402 payments"]
+}
